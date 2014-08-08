@@ -1,4 +1,4 @@
-OTM2013
+OTM2014
 =======
 
 Ohjelmistotekniikan menetelmät, kesä 2014
